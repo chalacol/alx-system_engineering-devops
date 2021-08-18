@@ -1,2 +1,2 @@
 #!/bin/bash
-md "my_first_directory" /tmp/
+mddir /tmp/my_first_directory
